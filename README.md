@@ -8,11 +8,12 @@ The JavaScript generates a random password for the user based on the criteria th
 
 ## **Site Link**
 
-Visit my Portfolio here: https://brooksy236.github.io/Password-Generator/ 
+Visit my Password-Generator page here: https://brooksy236.github.io/Password-Generator/ 
 
 ## **Screenshots**
 
-
+![](screenshots/screenshot-1JPG.JPG)
+![](screenshots/screenshot-2JPG.JPG)
 
 ## **Installation**
 
